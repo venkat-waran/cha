@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217276336937",
+    "firebase_url": "https://charitable-9e5ea.firebaseio.com",
+    "project_id": "charitable-9e5ea",
+    "storage_bucket": "charitable-9e5ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217276336937:android:46222f6f76d50b2bbb8538",
+        "android_client_info": {
+          "package_name": "com.charitable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217276336937-d01abbl7fp862ksate4nlvm27l2j3ipl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.charitable",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "217276336937-vao50icsuomqbiuf6jvo1flmea031i6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd6Sd3Yddku56bgKBjwp8kt--AvxOKi4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217276336937-vao50icsuomqbiuf6jvo1flmea031i6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217276336937-aha5l838r0ies2lco6uoschsrje6jvi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.charitable"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
